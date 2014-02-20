@@ -1,0 +1,11 @@
+{
+  "name": "stagas-stringify-attrs",
+  "description": "attributes serializer",
+  "version": "0.0.1",
+  "keywords": [
+    "serializer",
+    "attrs"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
